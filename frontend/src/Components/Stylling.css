@@ -1,0 +1,37 @@
+.student-container {
+    background-color: #e8ecf0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 500px;
+    text-align: center;
+}
+
+.student-title {
+    color: #343a40;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.student-username {
+    color: #495057;
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+
+.student-button {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.student-button:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
